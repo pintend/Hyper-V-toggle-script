@@ -1,2 +1,2 @@
 @echo off
-powershell.exe -Command "Start-Process hypervdisablescript -Verb RunAs"
+powershell.exe -Command "Start-Process hyperv-disable-script -Verb RunAs"

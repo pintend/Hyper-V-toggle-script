@@ -23,6 +23,7 @@ goto reboot-%ErrorLevel%
 
 :reboot-1
 shutdown /r /t 0
+exit
 
 :reboot-2
 echo[

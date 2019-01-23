@@ -30,20 +30,20 @@ Want to use the manual method?
 
 2. in the start menu search for "advanced system settings"
 
-3. - a "System Properties" windows should open and should be in the "Advanced" tab
+	a "System Properties" windows should open and should be in the "Advanced" tab
 
-4. click "Environmental Variables..." button
+3. click "Environmental Variables..." button
 
 	if you want these commands to be system-wide then use "System variables" 
 	if you want these commands available ONLY to your user then use "User variables for {username}
 
-5. click on "Path" then click the "Edit..." button for the variables you want to edit
+4. click on "Path" then click the "Edit..." button for the variables you want to edit
 
-6. click on "New"
+5. click on "New"
 
-7. type the folder location you put your bat files in E.G. C:\Users\{username}\customscripts 
+6. type the folder location you put your bat files in E.G. C:\Users\{username}\customscripts 
 
-8. click "OK" on all three windows
+7. click "OK" on all three windows
 
 
 Now open a command prompt and type one of these commands. (the script will ask for admin rights)
